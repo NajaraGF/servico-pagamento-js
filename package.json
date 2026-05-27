@@ -1,0 +1,27 @@
+{
+  "name": "servico-pagamento",
+  "version": "1.0.0",
+  "description": "Projeto prático em JavaScript para criar uma classe de serviço de pagamento.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NajaraGF/servico-pagamento-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NajaraGF/servico-pagamento-js/issues"
+  },
+  "homepage": "https://github.com/NajaraGF/servico-pagamento-js#readme",
+  "devDependencies": {
+    "mocha": "^11.7.6"
+  }
+}
